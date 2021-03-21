@@ -23,7 +23,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'http://107.cuisf.top';
+$config['base_url'] = 'https://weiyuexin.top/2020.107lab.com/';
 
 /*
 |--------------------------------------------------------------------------
